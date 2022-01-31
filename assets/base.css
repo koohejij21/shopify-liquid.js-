@@ -2104,6 +2104,8 @@ input[type='checkbox'] {
   padding: 1rem 2rem;
   margin: 0;
   letter-spacing: 0.1rem;
+  background-color: #6517cb3d;
+  background-image: linear-gradient(315deg, #6517cb28 0%, #cb218e 74%);
 }
 
 /* section-header */
@@ -2216,6 +2218,8 @@ input[type='checkbox'] {
 .header__heading-link .h2 {
   line-height: 1;
   color: rgba(var(--color-foreground), 0.75);
+  color:red;
+  font-weight: bold;
 }
 
 .header__heading-logo {
